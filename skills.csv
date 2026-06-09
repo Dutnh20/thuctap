@@ -1,0 +1,357 @@
+﻿id,name
+1,Excel
+2,C
+3,CI/CD
+4,DevOps
+5,Linux
+6,UI/UX
+7,AWS
+8,Agile
+9,Flutter
+10,Go
+11,Kubernetes
+12,Django
+13,FastAPI
+14,MongoDB
+15,MySQL
+16,PostgreSQL
+17,Python
+18,Git
+19,React
+20,React Native
+21,Swift
+22,Figma
+23,Word
+24,Java
+25,Next.js
+26,Node.js
+27,PHP
+28,SQL Server
+29,Vue.js
+30,PowerPoint
+31,Docker
+32,JavaScript
+33,Redis
+34,C#
+35,Tailwind CSS
+36,TypeScript
+37,Scrum
+38,C++
+39,Azure
+40,GitLab
+41,PyTorch
+42,Scikit-learn
+43,TensorFlow
+44,Angular
+45,Jenkins
+46,Spring Boot
+47,AutoCAD
+48,NumPy
+49,Pandas
+50,GitHub
+51,Ruby
+52,Laravel
+167,AI
+168,Big Data
+55,Branding
+56,Typography
+57,Photoshop
+58,Flask
+59,Android Studio
+60,Bootstrap
+61,Dart
+62,Xcode
+63,Cassandra
+64,Kotlin
+169,Data Warehousing
+170,Kafka
+171,Hadoop
+172,English
+173,AWS CloudFormation
+174,Spring
+175,Software Architecture
+72,Rust
+73,Google Cloud Platform
+74,ASP.NET Core
+75,After Effects
+76,Illustrator
+77,Video Editing
+78,Oracle Database
+79,Firebase
+176,Oracle
+81,Motion Graphics
+82,Sketch
+83,InDesign
+84,Blender
+85,Cinema 4D
+86,Express.js
+87,Adobe XD
+88,Canva
+89,Svelte
+90,Color Grading
+91,3ds Max
+92,Premiere Pro
+93,Ionic
+94,CorelDRAW
+95,Lightroom
+96,Ruby on Rails
+97,Procreate
+98,Nuxt.js
+177,Team Management
+178,System Architecture
+179,System Admin
+180,Database
+181,Application Security
+182,Vulnerability Management
+183,DevSecOps
+184,Cloud Security
+185,ISO 27001
+186,Cloud
+187,Pentest
+188,Stakeholder management
+189,Product Management
+190,Project Management
+191,.Net Core
+192,.NET
+193,Clean Architecture
+194,Networking
+195,C language
+196,Business Analysis
+197,PostgreSql
+198,Security
+199,IT Governance
+200,"Governance, Risk & Compliance"
+201,Information Security
+202,Automation Test
+203,Cucumber
+204,Golang
+205,Selenium
+206,Power BI
+207,Looker
+208,Tableau
+209,SQL
+210,API
+211,NoSQL
+212,Embedded
+213,Windows
+214,Leadership
+215,Data Engineer
+216,Business Intelligence
+217,Data Analysis
+218,Microsoft SQL Server
+219,Waterfall Methodology
+220,PQA
+221,Jira
+222,Data Science
+223,Keras
+224,Deep Learning
+225,Machine Learning
+226,Matlab
+227,ETL
+228,QA QC
+229,Japanese
+230,Tester
+231,ReactJS
+232,Unit test
+233,VueJS
+234,Microservices
+235,SAP
+236,OOP
+237,ERP
+238,Bridge Engineer
+239,Design Systems
+240,Design
+241,COBOL
+242,HTML
+243,NextJS
+244,BRD
+245,IT Support
+246,Wordpress
+247,Playwright
+248,Postman
+249,Data modeling
+250,MLOps
+251,Fullstack
+252,Redux
+253,UI-UX
+254,Adobe Illustrator
+255,LLM
+256,Computer Vision
+257,iOS
+258,Android
+259,ASP.NET
+260,MVC
+261,Solution Architecture
+262,GCP
+263,Hardware Troubleshooting
+264,IBM DB2
+265,Adobe Photoshop
+266,Mobile Apps
+267,MVVM
+268,Cisco
+269,Firewall
+270,Unity
+271,Games
+272,Visual Design
+273,SOLID Principles
+274,Jmeter
+275,Data Privacy / Compliance
+276,Salesforce
+277,CRM
+278,Product Design
+279,VMware
+280,Scala
+281,Sensor Fusion
+282,Chinese
+283,RTOS
+284,IoT
+285,ThreadX
+286,DBA
+287,HP ALM
+288,NodeJS
+289,Maya
+290,Windows Server
+291,Risk Management
+292,Cybersecurity
+293,CQRS
+294,Nx
+295,Symfony
+296,Miro
+297,CompTIA Network+
+298,Blockchain
+299,Splunk
+300,Power Automate
+301,ASPICE
+302,CSS
+303,Generative AI
+304,Terraform
+305,Enterprise Architecture
+306,Microservices Architecture
+307,Apache Spark
+308,Elasticsearch
+309,OCR
+310,Embedded C
+311,OpenCV
+312,Product Owner
+313,BPMN
+314,RxJS
+315,Tailwind
+316,Spark
+317,Gatling
+318,LoadRunner
+319,ELT
+320,JSON
+321,Microsoft Power Apps
+322,MQTT
+323,IoT Platforms
+324,Robotic Process Automation (RPA)
+325,Spin
+326,Cocos Creator
+327,PL/SQL
+328,Objective C
+329,CSS 3
+330,HTML5
+331,Microsoft Azure SQL Database
+332,Hibernate
+333,OutSystems
+334,scikit-learn
+335,Odoo
+336,AWS Lambda
+337,MISRA
+338,Metabase
+339,Blazor
+340,Unix
+341,Statistical Analysis
+342,SRS
+343,Cypress
+344,Zero Trust Architecture
+345,Incident Response
+346,Event-Driven Architecture
+347,OWASP
+348,Recoil
+349,UML
+350,CloudFormation
+351,SQLite
+352,JQuery
+353,Mockups
+354,Data Quality Tools
+355,APL
+356,NLP
+357,DNS Security
+358,Predictive Analytics
+359,Strategy planning
+360,Xamarin
+361,MariaDB
+362,Middleware
+363,User story
+364,InfluxDB
+365,Product strategy
+366,OpenStack
+367,Ansible
+368,Prometheus
+369,Data-driven
+370,Databricks
+371,Prototyping
+372,Adobe
+373,J2EE
+374,Japanese IT Communication
+375,Data Catalog
+376,Grails
+377,Cloud Migration Consulting
+378,Usability testing
+379,Maven
+380,Helm
+381,Penetration Testing
+382,Predictive models
+383,XML
+384,Shopify
+385,NestJS
+386,Web API
+387,Entity Framework
+388,Wireframing
+389,Google Cloud
+390,Endpoint Protection
+391,CompTIA Security+
+392,Neo4j
+393,TestRail
+394,Android studio
+395,Ajax
+396,DBT
+397,R
+398,GitHub Actions
+399,WPF
+400,DynamoDB
+401,Magento
+402,Algorithms
+403,Bash Shell
+404,SIEM
+405,Backlog grooming
+406,A/B testing
+407,Microsoft Dynamics 365
+408,ABAP
+409,LINQ
+410,AngularJS
+411,Debian
+412,Integration test
+413,MVP
+414,Qt
+415,Robot Framework
+416,WinForms
+417,Black box testing
+418,TestNG
+419,Nginx
+420,SSO
+421,Market research
+422,Assembly
+423,ColdFusion
+424,Presale
+425,Sass
+426,Jest
+427,Technical Writing
+428,GraphQL
+429,Ui5
+430,JTAG Debugging
+431,JUnit
+432,PRD
+433,Vuex
+434,GitLab CI
